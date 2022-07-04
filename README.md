@@ -9,6 +9,8 @@
 
 _Create a GitHub Action and use it in a workflow:tada::tada:._
 
+_README.mdに変更を加えました_
+
 <!--
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
